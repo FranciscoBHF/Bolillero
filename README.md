@@ -5,7 +5,6 @@ Trabajo practico
 classDiagram
 
 class Bolillero{
-    -bolillas: Bolilla
     +MeterBolilla(Bolilla)
 }
 
