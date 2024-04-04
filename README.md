@@ -1,7 +1,7 @@
 # Bolillero
 Trabajo practico 
 
-```Memaid
+```mermaid
 classDiagram
 
 class Bolillero{
