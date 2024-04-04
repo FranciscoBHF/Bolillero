@@ -5,9 +5,10 @@ Trabajo practico
 classDiagram
 
 class Bolillero{
-    +MeterBolilla()
+    -bolillas: Bolilla
+    +MeterBolilla(Bolilla)
 }
 
-Bolilla{
+class Bolilla{
     +Numero: int
 }
