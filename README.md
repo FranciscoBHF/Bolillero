@@ -9,5 +9,5 @@ class Bolillero{
 }
 
 Bolilla{
-    +bolilla: int
+    +Numero: int
 }
